@@ -1,0 +1,56 @@
+It document is made for experimenters. It will help them understand what the "Art information experiment" is about.
+Context:
+Museum are usualy seen as boring or out dated. To improve their visit, a solution would be to show them adabtive content.
+To show adabtive content, we need first to detect interess.
+THe hypothesis we want to test is "one's level of inters is linked to his physical stat,
+ for exemple heart beat, temperature or eye gaze"
+We also want to see if it's possible to provoque the flow stat of mind
+
+First: What is the experiement?
+To test this hyposthesis, the user is place in front of the computert  to interact with 3 different art pieces 
+each one with a different way for giving imformations. (text, video or mignifing glass)
+Their reaction will be recorded with a camera, a thermo camera, an eye tracker, and a E4.
+Then the user will be asked questions about the experiement.
+
+
+
+Second:What are the goals of this experiement? 
+They 3 real objective with the experiement.
+First is to determent what is the best way to display information about an art piece 
+ between text, video, magnified glasses.
+Secondly, is to detect and maybe provoque the state of flow. 
+Thirdly, is to record data about interess and physical reaction. We want to analyse the data to detect interess.
+
+
+
+What software will be used?
+Recording programme:
+
+This programme is made with C#. It can be found in the file... 
+
+
+
+E4
+
+
+
+DNP magnified glasses
+
+
+
+
+
+and my record program
+
+and E4
+
+
+
+How to chose the art?
+
+How to the experiment?
+
+First: explaine to the user the goal of the experiment: 
+exemple of speech:""
+
+
